@@ -1,0 +1,17 @@
+# Racket compiled files
+compiled/
+*.zo
+*.dep
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+Thumbs.db
